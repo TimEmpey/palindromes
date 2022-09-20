@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shanizalingle/Desktop/projects/palindromes/Palindromes/Palindromes.csproj": {}
+  },
+  "projects": {
+    "/Users/shanizalingle/Desktop/projects/palindromes/Palindromes/Palindromes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shanizalingle/Desktop/projects/palindromes/Palindromes/Palindromes.csproj",
+        "projectName": "Palindromes",
+        "projectPath": "/Users/shanizalingle/Desktop/projects/palindromes/Palindromes/Palindromes.csproj",
+        "packagesPath": "/Users/shanizalingle/.nuget/packages/",
+        "outputPath": "/Users/shanizalingle/Desktop/projects/palindromes/Palindromes/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shanizalingle/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
