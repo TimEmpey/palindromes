@@ -8,8 +8,11 @@ namespace Palindromes
   {
     public static void Main()
     {
-      Reverse name = new Reverse("Hannah");
-      Console.WriteLine(name.GetArray());
+      Console.WriteLine("Enter your name: ");
+      string inputName = Console.ReadLine().ToLower();
+      Reverse name = new Reverse(inputName);
+      Console.WriteLine("Your name backwards: " + name.GetArray());
+      Console.WriteLine(name.Results());
     }
   }
 }

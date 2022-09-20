@@ -13,7 +13,22 @@ namespace Palindromes.Models
 
     public string GetArray()
     {
-      return InputName;
+      char[] backwards = InputName.ToCharArray();
+      Array.Reverse(backwards);
+      string results = new string(backwards);
+      return results;
     }
+
+    public string Results()
+    {
+      if (GetArray() == InputName)
+      {
+        return "Your Name is a palindrome";
+      }
+      else
+      {
+        return "Your name is not a Palindrome";
+      }
+    }     
   }
 }
