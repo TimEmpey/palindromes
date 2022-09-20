@@ -1,0 +1,5 @@
+/Users/shanizalingle/Desktop/projects/palindromes/Palindromes.Tests/obj/Debug/net5.0/Palindromes.Tests.csproj.AssemblyReference.cache
+/Users/shanizalingle/Desktop/projects/palindromes/Palindromes.Tests/obj/Debug/net5.0/Palindromes.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shanizalingle/Desktop/projects/palindromes/Palindromes.Tests/obj/Debug/net5.0/Palindromes.Tests.AssemblyInfoInputs.cache
+/Users/shanizalingle/Desktop/projects/palindromes/Palindromes.Tests/obj/Debug/net5.0/Palindromes.Tests.AssemblyInfo.cs
+/Users/shanizalingle/Desktop/projects/palindromes/Palindromes.Tests/obj/Debug/net5.0/Palindromes.Tests.csproj.CoreCompileInputs.cache

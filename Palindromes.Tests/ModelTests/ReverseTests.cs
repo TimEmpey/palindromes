@@ -4,9 +4,13 @@ using Palindromes;
 namespace Palindromes.Tests
 {
   [TestClass]
-  public class ReverseTests
+  public class Reverse
   {
-    //Test
-    // Assert.AreEqual(Expected Result, Code to Test);
+    [TestMethod]
+    public void GetArray_DisplayInputedName()
+    {
+      Reverse testReverse = new Reverse();
+      Assert.AreEqual("hannah", testReverse.GetArray("hannah"));
+    }
   }
 }
